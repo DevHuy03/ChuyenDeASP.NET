@@ -1,0 +1,14 @@
+D:\CHUYENDEASP.NET\asp-project\Example01.2\bin\Debug\net8.0\Example01.2.exe
+D:\CHUYENDEASP.NET\asp-project\Example01.2\bin\Debug\net8.0\Example01.2.deps.json
+D:\CHUYENDEASP.NET\asp-project\Example01.2\bin\Debug\net8.0\Example01.2.runtimeconfig.json
+D:\CHUYENDEASP.NET\asp-project\Example01.2\bin\Debug\net8.0\Example01.2.dll
+D:\CHUYENDEASP.NET\asp-project\Example01.2\bin\Debug\net8.0\Example01.2.pdb
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.AssemblyInfoInputs.cache
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.AssemblyInfo.cs
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.csproj.CoreCompileInputs.cache
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.dll
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\refint\Example01.2.dll
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.pdb
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\Example01.2.genruntimeconfig.cache
+D:\CHUYENDEASP.NET\asp-project\Example01.2\obj\Debug\net8.0\ref\Example01.2.dll

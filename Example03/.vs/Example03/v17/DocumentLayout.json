@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CHUYENDEASP.NET\\asp-project\\Example03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D355E91-FA3E-4232-ABE2-213D3BD12FBC}|Example03\\Example03.csproj|d:\\chuyendeasp.net\\asp-project\\example03\\example03\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D355E91-FA3E-4232-ABE2-213D3BD12FBC}|Example03\\Example03.csproj|solutionrelative:example03\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D355E91-FA3E-4232-ABE2-213D3BD12FBC}|Example03\\Example03.csproj|d:\\chuyendeasp.net\\asp-project\\example03\\example03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D355E91-FA3E-4232-ABE2-213D3BD12FBC}|Example03\\Example03.csproj|solutionrelative:example03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\CHUYENDEASP.NET\\asp-project\\Example03\\Example03\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "Example03\\EmployeeContext.cs",
+              "ToolTip": "D:\\CHUYENDEASP.NET\\asp-project\\Example03\\Example03\\EmployeeContext.cs",
+              "RelativeToolTip": "Example03\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:31:15.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CHUYENDEASP.NET\\asp-project\\Example03\\Example03\\Employee.cs",
+              "RelativeDocumentMoniker": "Example03\\Employee.cs",
+              "ToolTip": "D:\\CHUYENDEASP.NET\\asp-project\\Example03\\Example03\\Employee.cs",
+              "RelativeToolTip": "Example03\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T06:29:18.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

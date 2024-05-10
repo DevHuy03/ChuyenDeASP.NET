@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|d:\\chuyendeasp.net\\asp-project\\visualstudio\\macquochuy\\example04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|solutionrelative:example04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|d:\\chuyendeasp.net\\asp-project\\visualstudio\\macquochuy\\example04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|solutionrelative:example04\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|d:\\chuyendeasp.net\\asp-project\\visualstudio\\macquochuy\\example04\\migrations\\20240226071151_createexample04db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8FB8FB4-88A9-4A00-91C2-B2AFA9AC9618}|Example04\\Example04.csproj|solutionrelative:example04\\migrations\\20240226071151_createexample04db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240226071151_CreateExample04DB.cs",
+              "DocumentMoniker": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\Migrations\\20240226071151_CreateExample04DB.cs",
+              "RelativeDocumentMoniker": "Example04\\Migrations\\20240226071151_CreateExample04DB.cs",
+              "ToolTip": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\Migrations\\20240226071151_CreateExample04DB.cs",
+              "RelativeToolTip": "Example04\\Migrations\\20240226071151_CreateExample04DB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:11:51.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\appsettings.json",
+              "RelativeDocumentMoniker": "Example04\\appsettings.json",
+              "ToolTip": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\appsettings.json",
+              "RelativeToolTip": "Example04\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-26T07:10:37.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\Program.cs",
+              "RelativeDocumentMoniker": "Example04\\Program.cs",
+              "ToolTip": "D:\\CHUYENDEASP.NET\\asp-project\\VisualStudio\\MacQuocHuy\\Example04\\Program.cs",
+              "RelativeToolTip": "Example04\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-26T07:10:34.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
